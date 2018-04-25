@@ -1,0 +1,16 @@
+.output__wrap{
+	background-color: rgba(247,148,32,0.8);
+	width: 60%;
+	margin: 20px auto;
+	border-radius: 25px;
+	border:5px solid black;
+}
+
+.output__wrap p{
+
+	border:2px dashed black;
+	padding: 10px 15px;
+	text-align: center;
+	border-right:none;
+	border-left: none;
+}
